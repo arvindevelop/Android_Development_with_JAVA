@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/layout/activity_colors.xml" value="0.1" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/layout/activity_family.xml" value="0.1" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/layout/activity_numbers.xml" value="0.1" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/layout/activity_numbers_click_listener.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/layout/activity_phrases.xml" value="0.1" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/layout/list_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aks76/AndroidStudioProjects/MultiScreenApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
